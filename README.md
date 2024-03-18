@@ -7,11 +7,6 @@ I'm Ankit Chatterjee,a passionate developer diving into the world of Java Backen
 
 - 📫 How to reach me **ankitcofficial7@gmail.com**
 
-### Connect with me:
-
-[LinkedIn](https://www.linkedin.com/in/ankit-chatterjee-2021/)![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-[Instagram](https://www.instagram.com/sir_ankitchatterjee/)  
-
  
 
 <h3 align="left">Connect with me:</h3>
