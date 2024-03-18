@@ -5,7 +5,7 @@ I'm Ankit Chatterjee,a passionate developer diving into the world of Java Backen
 
 🌱 I’m currently learning and experting Java-SpringBoot and AWS.
 
-📫 You can reach me at [ankitcofficial7@gmail.com](mailto:ankitfootball7@gmail.com).
+- 📫 How to reach me **ankitcofficial7@gmail.com**
 
 ### Connect with me:
 
