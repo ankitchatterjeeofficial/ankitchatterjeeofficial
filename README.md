@@ -9,7 +9,7 @@ I'm Ankit Chatterjee,a passionate developer diving into the world of Java Backen
 
 ### Connect with me:
 
-[LinkedIn](https://www.linkedin.com/in/ankit-chatterjee-2021/)  
+[LinkedIn](https://www.linkedin.com/in/ankit-chatterjee-2021/)[![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
 [Instagram](https://www.instagram.com/sir_ankitchatterjee/)  
 
 [GitHub](https://github.com/ankitchatterjeeofficial/)  
