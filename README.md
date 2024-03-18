@@ -13,7 +13,8 @@ I'm Ankit Chatterjee,a passionate developer diving into the world of Java Backen
 <p align="left">
 <a href="https://www.linkedin.com/in/ankit-chatterjee-2021/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-chatterjee-2021" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sir_ankitchatterjee/" target="_blank">
-<imge align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="30" alt="instagram logo"  /></a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="30" alt="instagram logo"  />
+  </a>
 <a href="https://leetcode.com/Ankitchatterjee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ankitchatterjee" height="30" width="40" /></a>
 </p>
 
