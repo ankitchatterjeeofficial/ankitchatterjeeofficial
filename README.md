@@ -17,5 +17,5 @@ I'm Ankit Chatterjee,a passionate developer diving into the world of Java Backen
 ### Languages and Tools:
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,hibernate,idea,maven,mongodb,mysql,postman,spring&theme=light)](https://skillicons.dev)
 
