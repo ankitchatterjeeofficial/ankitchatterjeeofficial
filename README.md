@@ -3,7 +3,7 @@
 I'm Ankit Chatterjee,a passionate developer diving into the world of Java Backend development with Spring Boot. With a fervent curiosity and a drive for continuous learning, I'm on a journey to master the art of crafting robust and scalable backend solutions.
 
 
-🌱 I’m currently SpringBoot and AWS.
+🌱 I’m currently learning and experting Java-SpringBoot and AWS.
 
 📫 You can reach me at [ankitcofficial7@gmail.com](mailto:ankitfootball7@gmail.com).
 
