@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**ankitchatterjeeofficial/ankitchatterjeeofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ankit Chatterjee,a passionate developer diving into the world of Java Backend development with Spring Boot. With a fervent curiosity and a drive for continuous learning, I'm on a journey to master the art of crafting robust and scalable backend solutions.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently SpringBoot and AWS.
+
+📫 You can reach me at [ankitcofficial7@gmail.com](mailto:ankitfootball7@gmail.com).
+
+### Connect with me:
+
+[LinkedIn](https://www.linkedin.com/in/ankit-chatterjee-2021/)  
+[Instagram](https://www.instagram.com/sir_ankitchatterjee/)  
+
+[GitHub](https://github.com/ankitchatterjeeofficial/)  
+
+### Languages and Tools:
+
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+
