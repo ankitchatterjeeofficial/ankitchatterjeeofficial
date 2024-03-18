@@ -12,7 +12,13 @@ I'm Ankit Chatterjee,a passionate developer diving into the world of Java Backen
 [LinkedIn](https://www.linkedin.com/in/ankit-chatterjee-2021/)![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 [Instagram](https://www.instagram.com/sir_ankitchatterjee/)  
 
-[GitHub](https://github.com/ankitchatterjeeofficial/)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
+ 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href=(https://www.linkedin.com/in/ankit-chatterjee-2021/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raunak-d-4001141b8" height="30" width="40" /></a>
+<a href=(https://www.instagram.com/sir_ankitchatterjee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raunak___k" height="30" width="40" /></a>
+</p>
 
 ### Languages and Tools:
 
